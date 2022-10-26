@@ -1,2 +1,3 @@
-# VCM-Saneamento
-Site desenvolvido para a VCM Saneamento.
+# Saudação
+Site desenvolvido para execitar as tecnologias HTML, CSS e JavaScript.
+
